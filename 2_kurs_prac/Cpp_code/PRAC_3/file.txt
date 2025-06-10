@@ -1,0 +1,21 @@
+program {
+    int a = 51, b = 5, c;
+    string x = "abc", z = "bebebe", y;
+    c = (a + b) * 2;
+
+    write(c);
+    c = c - 1;
+    write(c);
+    c = b = f;
+    write(c);
+
+    if (c >= 4 or x == z) {
+        read (y);
+        write (x + z, y);
+    }
+    write(c);
+    c = 1 - c;
+    write(c);
+
+    /* this is a comment */
+}

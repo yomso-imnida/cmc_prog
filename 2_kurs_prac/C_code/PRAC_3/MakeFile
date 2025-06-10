@@ -1,0 +1,3 @@
+all:
+	gcc -o prog1 -Wall convert_16by8.c modul.c
+	gcc -o prog2 -Wall convert_8by16.c modul.c

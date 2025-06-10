@@ -1,0 +1,37 @@
+<information>
+    <processors_count>5</processors_count>
+    <programs_count>4</programs_count>
+    <network_load_limit>400</network_load_limit>
+    <programs_information>
+        <program num_prog="1" proc_load="5"/>
+        <program num_prog="2" proc_load="20"/>
+        <program num_prog="3" proc_load="15"/>
+        <program num_prog="4" proc_load="10"/>
+    </programs_information>
+    <exchange_data>
+        <exchange_pair>
+            <pair_programs Prog1="1" Prog2="2"/>
+            <intensity_exchange load="50"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="1" Prog2="3"/>
+            <intensity_exchange load="0"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="1" Prog2="4"/>
+            <intensity_exchange load="100"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="2" Prog2="3"/>
+            <intensity_exchange load="100"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="2" Prog2="4"/>
+            <intensity_exchange load="100"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="3" Prog2="4"/>
+            <intensity_exchange load="50"/>
+        </exchange_pair>
+    </exchange_data>
+</information>

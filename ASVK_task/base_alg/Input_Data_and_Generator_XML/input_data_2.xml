@@ -1,0 +1,1779 @@
+<information>
+    <processors_count>8</processors_count>
+    <programs_count>30</programs_count>
+    <network_load_limit>12200</network_load_limit>
+    <programs_information>
+        <program num_prog="1" proc_load="15"/>
+        <program num_prog="2" proc_load="20"/>
+        <program num_prog="3" proc_load="10"/>
+        <program num_prog="4" proc_load="5"/>
+        <program num_prog="5" proc_load="5"/>
+        <program num_prog="6" proc_load="15"/>
+        <program num_prog="7" proc_load="10"/>
+        <program num_prog="8" proc_load="20"/>
+        <program num_prog="9" proc_load="10"/>
+        <program num_prog="10" proc_load="20"/>
+        <program num_prog="11" proc_load="10"/>
+        <program num_prog="12" proc_load="5"/>
+        <program num_prog="13" proc_load="10"/>
+        <program num_prog="14" proc_load="10"/>
+        <program num_prog="15" proc_load="10"/>
+        <program num_prog="16" proc_load="5"/>
+        <program num_prog="17" proc_load="15"/>
+        <program num_prog="18" proc_load="15"/>
+        <program num_prog="19" proc_load="15"/>
+        <program num_prog="20" proc_load="5"/>
+        <program num_prog="21" proc_load="5"/>
+        <program num_prog="22" proc_load="10"/>
+        <program num_prog="23" proc_load="20"/>
+        <program num_prog="24" proc_load="10"/>
+        <program num_prog="25" proc_load="15"/>
+        <program num_prog="26" proc_load="20"/>
+        <program num_prog="27" proc_load="5"/>
+        <program num_prog="28" proc_load="20"/>
+        <program num_prog="29" proc_load="10"/>
+        <program num_prog="30" proc_load="15"/>
+    </programs_information>
+    <exchange_data>
+        <exchange_pair>
+            <pair_programs Prog1="1" Prog2="2"/>
+            <intensity_exchange load="70"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="1" Prog2="3"/>
+            <intensity_exchange load="100"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="1" Prog2="4"/>
+            <intensity_exchange load="100"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="1" Prog2="5"/>
+            <intensity_exchange load="100"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="1" Prog2="6"/>
+            <intensity_exchange load="20"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="1" Prog2="7"/>
+            <intensity_exchange load="20"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="1" Prog2="8"/>
+            <intensity_exchange load="70"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="1" Prog2="9"/>
+            <intensity_exchange load="70"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="1" Prog2="10"/>
+            <intensity_exchange load="100"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="1" Prog2="11"/>
+            <intensity_exchange load="50"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="1" Prog2="12"/>
+            <intensity_exchange load="50"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="1" Prog2="13"/>
+            <intensity_exchange load="100"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="1" Prog2="14"/>
+            <intensity_exchange load="100"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="1" Prog2="15"/>
+            <intensity_exchange load="20"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="1" Prog2="16"/>
+            <intensity_exchange load="20"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="1" Prog2="17"/>
+            <intensity_exchange load="20"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="1" Prog2="18"/>
+            <intensity_exchange load="70"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="1" Prog2="19"/>
+            <intensity_exchange load="20"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="1" Prog2="20"/>
+            <intensity_exchange load="20"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="1" Prog2="21"/>
+            <intensity_exchange load="20"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="1" Prog2="22"/>
+            <intensity_exchange load="0"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="1" Prog2="23"/>
+            <intensity_exchange load="20"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="1" Prog2="24"/>
+            <intensity_exchange load="100"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="1" Prog2="25"/>
+            <intensity_exchange load="20"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="1" Prog2="26"/>
+            <intensity_exchange load="50"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="1" Prog2="27"/>
+            <intensity_exchange load="70"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="1" Prog2="28"/>
+            <intensity_exchange load="70"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="1" Prog2="29"/>
+            <intensity_exchange load="50"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="1" Prog2="30"/>
+            <intensity_exchange load="70"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="2" Prog2="3"/>
+            <intensity_exchange load="0"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="2" Prog2="4"/>
+            <intensity_exchange load="50"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="2" Prog2="5"/>
+            <intensity_exchange load="70"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="2" Prog2="6"/>
+            <intensity_exchange load="20"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="2" Prog2="7"/>
+            <intensity_exchange load="20"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="2" Prog2="8"/>
+            <intensity_exchange load="50"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="2" Prog2="9"/>
+            <intensity_exchange load="70"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="2" Prog2="10"/>
+            <intensity_exchange load="100"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="2" Prog2="11"/>
+            <intensity_exchange load="0"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="2" Prog2="12"/>
+            <intensity_exchange load="20"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="2" Prog2="13"/>
+            <intensity_exchange load="70"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="2" Prog2="14"/>
+            <intensity_exchange load="70"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="2" Prog2="15"/>
+            <intensity_exchange load="20"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="2" Prog2="16"/>
+            <intensity_exchange load="100"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="2" Prog2="17"/>
+            <intensity_exchange load="100"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="2" Prog2="18"/>
+            <intensity_exchange load="100"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="2" Prog2="19"/>
+            <intensity_exchange load="70"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="2" Prog2="20"/>
+            <intensity_exchange load="0"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="2" Prog2="21"/>
+            <intensity_exchange load="70"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="2" Prog2="22"/>
+            <intensity_exchange load="20"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="2" Prog2="23"/>
+            <intensity_exchange load="70"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="2" Prog2="24"/>
+            <intensity_exchange load="100"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="2" Prog2="25"/>
+            <intensity_exchange load="20"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="2" Prog2="26"/>
+            <intensity_exchange load="100"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="2" Prog2="27"/>
+            <intensity_exchange load="20"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="2" Prog2="28"/>
+            <intensity_exchange load="100"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="2" Prog2="29"/>
+            <intensity_exchange load="50"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="2" Prog2="30"/>
+            <intensity_exchange load="20"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="3" Prog2="4"/>
+            <intensity_exchange load="70"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="3" Prog2="5"/>
+            <intensity_exchange load="20"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="3" Prog2="6"/>
+            <intensity_exchange load="50"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="3" Prog2="7"/>
+            <intensity_exchange load="0"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="3" Prog2="8"/>
+            <intensity_exchange load="70"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="3" Prog2="9"/>
+            <intensity_exchange load="0"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="3" Prog2="10"/>
+            <intensity_exchange load="20"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="3" Prog2="11"/>
+            <intensity_exchange load="20"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="3" Prog2="12"/>
+            <intensity_exchange load="70"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="3" Prog2="13"/>
+            <intensity_exchange load="20"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="3" Prog2="14"/>
+            <intensity_exchange load="0"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="3" Prog2="15"/>
+            <intensity_exchange load="0"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="3" Prog2="16"/>
+            <intensity_exchange load="70"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="3" Prog2="17"/>
+            <intensity_exchange load="20"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="3" Prog2="18"/>
+            <intensity_exchange load="70"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="3" Prog2="19"/>
+            <intensity_exchange load="20"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="3" Prog2="20"/>
+            <intensity_exchange load="50"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="3" Prog2="21"/>
+            <intensity_exchange load="100"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="3" Prog2="22"/>
+            <intensity_exchange load="0"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="3" Prog2="23"/>
+            <intensity_exchange load="0"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="3" Prog2="24"/>
+            <intensity_exchange load="100"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="3" Prog2="25"/>
+            <intensity_exchange load="0"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="3" Prog2="26"/>
+            <intensity_exchange load="20"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="3" Prog2="27"/>
+            <intensity_exchange load="50"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="3" Prog2="28"/>
+            <intensity_exchange load="0"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="3" Prog2="29"/>
+            <intensity_exchange load="0"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="3" Prog2="30"/>
+            <intensity_exchange load="100"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="4" Prog2="5"/>
+            <intensity_exchange load="70"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="4" Prog2="6"/>
+            <intensity_exchange load="20"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="4" Prog2="7"/>
+            <intensity_exchange load="20"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="4" Prog2="8"/>
+            <intensity_exchange load="100"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="4" Prog2="9"/>
+            <intensity_exchange load="100"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="4" Prog2="10"/>
+            <intensity_exchange load="100"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="4" Prog2="11"/>
+            <intensity_exchange load="20"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="4" Prog2="12"/>
+            <intensity_exchange load="100"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="4" Prog2="13"/>
+            <intensity_exchange load="100"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="4" Prog2="14"/>
+            <intensity_exchange load="50"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="4" Prog2="15"/>
+            <intensity_exchange load="70"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="4" Prog2="16"/>
+            <intensity_exchange load="0"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="4" Prog2="17"/>
+            <intensity_exchange load="50"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="4" Prog2="18"/>
+            <intensity_exchange load="100"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="4" Prog2="19"/>
+            <intensity_exchange load="50"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="4" Prog2="20"/>
+            <intensity_exchange load="50"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="4" Prog2="21"/>
+            <intensity_exchange load="100"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="4" Prog2="22"/>
+            <intensity_exchange load="0"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="4" Prog2="23"/>
+            <intensity_exchange load="70"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="4" Prog2="24"/>
+            <intensity_exchange load="0"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="4" Prog2="25"/>
+            <intensity_exchange load="70"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="4" Prog2="26"/>
+            <intensity_exchange load="50"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="4" Prog2="27"/>
+            <intensity_exchange load="20"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="4" Prog2="28"/>
+            <intensity_exchange load="0"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="4" Prog2="29"/>
+            <intensity_exchange load="100"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="4" Prog2="30"/>
+            <intensity_exchange load="20"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="5" Prog2="6"/>
+            <intensity_exchange load="100"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="5" Prog2="7"/>
+            <intensity_exchange load="70"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="5" Prog2="8"/>
+            <intensity_exchange load="70"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="5" Prog2="9"/>
+            <intensity_exchange load="20"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="5" Prog2="10"/>
+            <intensity_exchange load="50"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="5" Prog2="11"/>
+            <intensity_exchange load="20"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="5" Prog2="12"/>
+            <intensity_exchange load="50"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="5" Prog2="13"/>
+            <intensity_exchange load="70"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="5" Prog2="14"/>
+            <intensity_exchange load="70"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="5" Prog2="15"/>
+            <intensity_exchange load="50"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="5" Prog2="16"/>
+            <intensity_exchange load="100"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="5" Prog2="17"/>
+            <intensity_exchange load="100"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="5" Prog2="18"/>
+            <intensity_exchange load="70"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="5" Prog2="19"/>
+            <intensity_exchange load="70"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="5" Prog2="20"/>
+            <intensity_exchange load="70"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="5" Prog2="21"/>
+            <intensity_exchange load="20"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="5" Prog2="22"/>
+            <intensity_exchange load="0"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="5" Prog2="23"/>
+            <intensity_exchange load="50"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="5" Prog2="24"/>
+            <intensity_exchange load="20"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="5" Prog2="25"/>
+            <intensity_exchange load="70"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="5" Prog2="26"/>
+            <intensity_exchange load="0"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="5" Prog2="27"/>
+            <intensity_exchange load="0"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="5" Prog2="28"/>
+            <intensity_exchange load="0"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="5" Prog2="29"/>
+            <intensity_exchange load="0"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="5" Prog2="30"/>
+            <intensity_exchange load="70"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="6" Prog2="7"/>
+            <intensity_exchange load="0"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="6" Prog2="8"/>
+            <intensity_exchange load="50"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="6" Prog2="9"/>
+            <intensity_exchange load="100"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="6" Prog2="10"/>
+            <intensity_exchange load="20"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="6" Prog2="11"/>
+            <intensity_exchange load="70"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="6" Prog2="12"/>
+            <intensity_exchange load="50"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="6" Prog2="13"/>
+            <intensity_exchange load="50"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="6" Prog2="14"/>
+            <intensity_exchange load="50"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="6" Prog2="15"/>
+            <intensity_exchange load="70"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="6" Prog2="16"/>
+            <intensity_exchange load="70"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="6" Prog2="17"/>
+            <intensity_exchange load="100"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="6" Prog2="18"/>
+            <intensity_exchange load="100"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="6" Prog2="19"/>
+            <intensity_exchange load="0"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="6" Prog2="20"/>
+            <intensity_exchange load="0"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="6" Prog2="21"/>
+            <intensity_exchange load="50"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="6" Prog2="22"/>
+            <intensity_exchange load="50"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="6" Prog2="23"/>
+            <intensity_exchange load="100"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="6" Prog2="24"/>
+            <intensity_exchange load="100"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="6" Prog2="25"/>
+            <intensity_exchange load="70"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="6" Prog2="26"/>
+            <intensity_exchange load="70"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="6" Prog2="27"/>
+            <intensity_exchange load="50"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="6" Prog2="28"/>
+            <intensity_exchange load="100"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="6" Prog2="29"/>
+            <intensity_exchange load="70"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="6" Prog2="30"/>
+            <intensity_exchange load="0"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="7" Prog2="8"/>
+            <intensity_exchange load="50"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="7" Prog2="9"/>
+            <intensity_exchange load="70"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="7" Prog2="10"/>
+            <intensity_exchange load="50"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="7" Prog2="11"/>
+            <intensity_exchange load="0"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="7" Prog2="12"/>
+            <intensity_exchange load="100"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="7" Prog2="13"/>
+            <intensity_exchange load="50"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="7" Prog2="14"/>
+            <intensity_exchange load="70"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="7" Prog2="15"/>
+            <intensity_exchange load="20"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="7" Prog2="16"/>
+            <intensity_exchange load="20"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="7" Prog2="17"/>
+            <intensity_exchange load="50"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="7" Prog2="18"/>
+            <intensity_exchange load="100"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="7" Prog2="19"/>
+            <intensity_exchange load="0"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="7" Prog2="20"/>
+            <intensity_exchange load="20"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="7" Prog2="21"/>
+            <intensity_exchange load="20"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="7" Prog2="22"/>
+            <intensity_exchange load="50"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="7" Prog2="23"/>
+            <intensity_exchange load="100"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="7" Prog2="24"/>
+            <intensity_exchange load="100"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="7" Prog2="25"/>
+            <intensity_exchange load="70"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="7" Prog2="26"/>
+            <intensity_exchange load="20"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="7" Prog2="27"/>
+            <intensity_exchange load="50"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="7" Prog2="28"/>
+            <intensity_exchange load="70"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="7" Prog2="29"/>
+            <intensity_exchange load="0"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="7" Prog2="30"/>
+            <intensity_exchange load="20"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="8" Prog2="9"/>
+            <intensity_exchange load="70"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="8" Prog2="10"/>
+            <intensity_exchange load="100"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="8" Prog2="11"/>
+            <intensity_exchange load="100"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="8" Prog2="12"/>
+            <intensity_exchange load="70"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="8" Prog2="13"/>
+            <intensity_exchange load="100"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="8" Prog2="14"/>
+            <intensity_exchange load="100"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="8" Prog2="15"/>
+            <intensity_exchange load="70"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="8" Prog2="16"/>
+            <intensity_exchange load="20"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="8" Prog2="17"/>
+            <intensity_exchange load="70"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="8" Prog2="18"/>
+            <intensity_exchange load="50"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="8" Prog2="19"/>
+            <intensity_exchange load="70"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="8" Prog2="20"/>
+            <intensity_exchange load="70"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="8" Prog2="21"/>
+            <intensity_exchange load="70"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="8" Prog2="22"/>
+            <intensity_exchange load="50"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="8" Prog2="23"/>
+            <intensity_exchange load="20"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="8" Prog2="24"/>
+            <intensity_exchange load="100"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="8" Prog2="25"/>
+            <intensity_exchange load="0"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="8" Prog2="26"/>
+            <intensity_exchange load="0"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="8" Prog2="27"/>
+            <intensity_exchange load="100"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="8" Prog2="28"/>
+            <intensity_exchange load="0"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="8" Prog2="29"/>
+            <intensity_exchange load="50"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="8" Prog2="30"/>
+            <intensity_exchange load="50"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="9" Prog2="10"/>
+            <intensity_exchange load="100"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="9" Prog2="11"/>
+            <intensity_exchange load="70"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="9" Prog2="12"/>
+            <intensity_exchange load="100"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="9" Prog2="13"/>
+            <intensity_exchange load="70"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="9" Prog2="14"/>
+            <intensity_exchange load="100"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="9" Prog2="15"/>
+            <intensity_exchange load="20"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="9" Prog2="16"/>
+            <intensity_exchange load="70"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="9" Prog2="17"/>
+            <intensity_exchange load="0"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="9" Prog2="18"/>
+            <intensity_exchange load="50"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="9" Prog2="19"/>
+            <intensity_exchange load="20"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="9" Prog2="20"/>
+            <intensity_exchange load="20"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="9" Prog2="21"/>
+            <intensity_exchange load="50"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="9" Prog2="22"/>
+            <intensity_exchange load="20"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="9" Prog2="23"/>
+            <intensity_exchange load="0"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="9" Prog2="24"/>
+            <intensity_exchange load="70"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="9" Prog2="25"/>
+            <intensity_exchange load="0"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="9" Prog2="26"/>
+            <intensity_exchange load="20"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="9" Prog2="27"/>
+            <intensity_exchange load="70"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="9" Prog2="28"/>
+            <intensity_exchange load="100"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="9" Prog2="29"/>
+            <intensity_exchange load="20"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="9" Prog2="30"/>
+            <intensity_exchange load="50"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="10" Prog2="11"/>
+            <intensity_exchange load="100"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="10" Prog2="12"/>
+            <intensity_exchange load="70"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="10" Prog2="13"/>
+            <intensity_exchange load="70"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="10" Prog2="14"/>
+            <intensity_exchange load="70"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="10" Prog2="15"/>
+            <intensity_exchange load="20"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="10" Prog2="16"/>
+            <intensity_exchange load="20"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="10" Prog2="17"/>
+            <intensity_exchange load="100"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="10" Prog2="18"/>
+            <intensity_exchange load="70"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="10" Prog2="19"/>
+            <intensity_exchange load="70"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="10" Prog2="20"/>
+            <intensity_exchange load="50"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="10" Prog2="21"/>
+            <intensity_exchange load="70"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="10" Prog2="22"/>
+            <intensity_exchange load="70"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="10" Prog2="23"/>
+            <intensity_exchange load="20"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="10" Prog2="24"/>
+            <intensity_exchange load="70"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="10" Prog2="25"/>
+            <intensity_exchange load="70"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="10" Prog2="26"/>
+            <intensity_exchange load="100"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="10" Prog2="27"/>
+            <intensity_exchange load="20"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="10" Prog2="28"/>
+            <intensity_exchange load="0"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="10" Prog2="29"/>
+            <intensity_exchange load="20"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="10" Prog2="30"/>
+            <intensity_exchange load="0"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="11" Prog2="12"/>
+            <intensity_exchange load="70"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="11" Prog2="13"/>
+            <intensity_exchange load="0"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="11" Prog2="14"/>
+            <intensity_exchange load="20"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="11" Prog2="15"/>
+            <intensity_exchange load="100"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="11" Prog2="16"/>
+            <intensity_exchange load="0"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="11" Prog2="17"/>
+            <intensity_exchange load="70"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="11" Prog2="18"/>
+            <intensity_exchange load="50"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="11" Prog2="19"/>
+            <intensity_exchange load="100"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="11" Prog2="20"/>
+            <intensity_exchange load="50"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="11" Prog2="21"/>
+            <intensity_exchange load="100"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="11" Prog2="22"/>
+            <intensity_exchange load="20"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="11" Prog2="23"/>
+            <intensity_exchange load="20"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="11" Prog2="24"/>
+            <intensity_exchange load="100"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="11" Prog2="25"/>
+            <intensity_exchange load="20"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="11" Prog2="26"/>
+            <intensity_exchange load="50"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="11" Prog2="27"/>
+            <intensity_exchange load="0"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="11" Prog2="28"/>
+            <intensity_exchange load="50"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="11" Prog2="29"/>
+            <intensity_exchange load="70"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="11" Prog2="30"/>
+            <intensity_exchange load="100"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="12" Prog2="13"/>
+            <intensity_exchange load="50"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="12" Prog2="14"/>
+            <intensity_exchange load="50"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="12" Prog2="15"/>
+            <intensity_exchange load="100"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="12" Prog2="16"/>
+            <intensity_exchange load="20"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="12" Prog2="17"/>
+            <intensity_exchange load="0"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="12" Prog2="18"/>
+            <intensity_exchange load="100"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="12" Prog2="19"/>
+            <intensity_exchange load="20"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="12" Prog2="20"/>
+            <intensity_exchange load="100"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="12" Prog2="21"/>
+            <intensity_exchange load="50"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="12" Prog2="22"/>
+            <intensity_exchange load="20"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="12" Prog2="23"/>
+            <intensity_exchange load="20"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="12" Prog2="24"/>
+            <intensity_exchange load="50"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="12" Prog2="25"/>
+            <intensity_exchange load="100"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="12" Prog2="26"/>
+            <intensity_exchange load="70"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="12" Prog2="27"/>
+            <intensity_exchange load="20"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="12" Prog2="28"/>
+            <intensity_exchange load="0"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="12" Prog2="29"/>
+            <intensity_exchange load="100"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="12" Prog2="30"/>
+            <intensity_exchange load="100"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="13" Prog2="14"/>
+            <intensity_exchange load="70"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="13" Prog2="15"/>
+            <intensity_exchange load="70"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="13" Prog2="16"/>
+            <intensity_exchange load="100"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="13" Prog2="17"/>
+            <intensity_exchange load="100"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="13" Prog2="18"/>
+            <intensity_exchange load="20"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="13" Prog2="19"/>
+            <intensity_exchange load="0"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="13" Prog2="20"/>
+            <intensity_exchange load="0"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="13" Prog2="21"/>
+            <intensity_exchange load="50"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="13" Prog2="22"/>
+            <intensity_exchange load="100"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="13" Prog2="23"/>
+            <intensity_exchange load="20"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="13" Prog2="24"/>
+            <intensity_exchange load="50"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="13" Prog2="25"/>
+            <intensity_exchange load="70"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="13" Prog2="26"/>
+            <intensity_exchange load="50"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="13" Prog2="27"/>
+            <intensity_exchange load="100"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="13" Prog2="28"/>
+            <intensity_exchange load="0"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="13" Prog2="29"/>
+            <intensity_exchange load="70"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="13" Prog2="30"/>
+            <intensity_exchange load="0"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="14" Prog2="15"/>
+            <intensity_exchange load="20"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="14" Prog2="16"/>
+            <intensity_exchange load="50"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="14" Prog2="17"/>
+            <intensity_exchange load="70"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="14" Prog2="18"/>
+            <intensity_exchange load="0"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="14" Prog2="19"/>
+            <intensity_exchange load="100"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="14" Prog2="20"/>
+            <intensity_exchange load="20"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="14" Prog2="21"/>
+            <intensity_exchange load="70"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="14" Prog2="22"/>
+            <intensity_exchange load="100"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="14" Prog2="23"/>
+            <intensity_exchange load="70"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="14" Prog2="24"/>
+            <intensity_exchange load="50"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="14" Prog2="25"/>
+            <intensity_exchange load="50"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="14" Prog2="26"/>
+            <intensity_exchange load="70"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="14" Prog2="27"/>
+            <intensity_exchange load="70"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="14" Prog2="28"/>
+            <intensity_exchange load="20"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="14" Prog2="29"/>
+            <intensity_exchange load="70"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="14" Prog2="30"/>
+            <intensity_exchange load="70"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="15" Prog2="16"/>
+            <intensity_exchange load="50"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="15" Prog2="17"/>
+            <intensity_exchange load="100"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="15" Prog2="18"/>
+            <intensity_exchange load="100"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="15" Prog2="19"/>
+            <intensity_exchange load="70"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="15" Prog2="20"/>
+            <intensity_exchange load="0"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="15" Prog2="21"/>
+            <intensity_exchange load="70"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="15" Prog2="22"/>
+            <intensity_exchange load="100"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="15" Prog2="23"/>
+            <intensity_exchange load="70"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="15" Prog2="24"/>
+            <intensity_exchange load="0"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="15" Prog2="25"/>
+            <intensity_exchange load="50"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="15" Prog2="26"/>
+            <intensity_exchange load="50"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="15" Prog2="27"/>
+            <intensity_exchange load="50"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="15" Prog2="28"/>
+            <intensity_exchange load="70"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="15" Prog2="29"/>
+            <intensity_exchange load="0"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="15" Prog2="30"/>
+            <intensity_exchange load="100"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="16" Prog2="17"/>
+            <intensity_exchange load="100"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="16" Prog2="18"/>
+            <intensity_exchange load="100"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="16" Prog2="19"/>
+            <intensity_exchange load="70"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="16" Prog2="20"/>
+            <intensity_exchange load="20"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="16" Prog2="21"/>
+            <intensity_exchange load="0"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="16" Prog2="22"/>
+            <intensity_exchange load="100"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="16" Prog2="23"/>
+            <intensity_exchange load="0"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="16" Prog2="24"/>
+            <intensity_exchange load="100"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="16" Prog2="25"/>
+            <intensity_exchange load="50"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="16" Prog2="26"/>
+            <intensity_exchange load="100"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="16" Prog2="27"/>
+            <intensity_exchange load="20"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="16" Prog2="28"/>
+            <intensity_exchange load="20"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="16" Prog2="29"/>
+            <intensity_exchange load="50"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="16" Prog2="30"/>
+            <intensity_exchange load="0"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="17" Prog2="18"/>
+            <intensity_exchange load="20"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="17" Prog2="19"/>
+            <intensity_exchange load="0"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="17" Prog2="20"/>
+            <intensity_exchange load="50"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="17" Prog2="21"/>
+            <intensity_exchange load="20"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="17" Prog2="22"/>
+            <intensity_exchange load="20"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="17" Prog2="23"/>
+            <intensity_exchange load="50"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="17" Prog2="24"/>
+            <intensity_exchange load="20"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="17" Prog2="25"/>
+            <intensity_exchange load="20"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="17" Prog2="26"/>
+            <intensity_exchange load="50"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="17" Prog2="27"/>
+            <intensity_exchange load="20"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="17" Prog2="28"/>
+            <intensity_exchange load="100"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="17" Prog2="29"/>
+            <intensity_exchange load="20"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="17" Prog2="30"/>
+            <intensity_exchange load="70"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="18" Prog2="19"/>
+            <intensity_exchange load="20"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="18" Prog2="20"/>
+            <intensity_exchange load="100"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="18" Prog2="21"/>
+            <intensity_exchange load="70"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="18" Prog2="22"/>
+            <intensity_exchange load="0"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="18" Prog2="23"/>
+            <intensity_exchange load="0"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="18" Prog2="24"/>
+            <intensity_exchange load="50"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="18" Prog2="25"/>
+            <intensity_exchange load="70"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="18" Prog2="26"/>
+            <intensity_exchange load="50"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="18" Prog2="27"/>
+            <intensity_exchange load="50"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="18" Prog2="28"/>
+            <intensity_exchange load="0"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="18" Prog2="29"/>
+            <intensity_exchange load="100"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="18" Prog2="30"/>
+            <intensity_exchange load="100"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="19" Prog2="20"/>
+            <intensity_exchange load="50"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="19" Prog2="21"/>
+            <intensity_exchange load="70"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="19" Prog2="22"/>
+            <intensity_exchange load="50"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="19" Prog2="23"/>
+            <intensity_exchange load="0"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="19" Prog2="24"/>
+            <intensity_exchange load="50"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="19" Prog2="25"/>
+            <intensity_exchange load="100"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="19" Prog2="26"/>
+            <intensity_exchange load="50"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="19" Prog2="27"/>
+            <intensity_exchange load="100"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="19" Prog2="28"/>
+            <intensity_exchange load="50"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="19" Prog2="29"/>
+            <intensity_exchange load="0"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="19" Prog2="30"/>
+            <intensity_exchange load="50"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="20" Prog2="21"/>
+            <intensity_exchange load="20"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="20" Prog2="22"/>
+            <intensity_exchange load="20"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="20" Prog2="23"/>
+            <intensity_exchange load="70"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="20" Prog2="24"/>
+            <intensity_exchange load="0"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="20" Prog2="25"/>
+            <intensity_exchange load="50"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="20" Prog2="26"/>
+            <intensity_exchange load="50"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="20" Prog2="27"/>
+            <intensity_exchange load="50"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="20" Prog2="28"/>
+            <intensity_exchange load="50"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="20" Prog2="29"/>
+            <intensity_exchange load="0"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="20" Prog2="30"/>
+            <intensity_exchange load="70"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="21" Prog2="22"/>
+            <intensity_exchange load="0"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="21" Prog2="23"/>
+            <intensity_exchange load="20"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="21" Prog2="24"/>
+            <intensity_exchange load="100"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="21" Prog2="25"/>
+            <intensity_exchange load="100"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="21" Prog2="26"/>
+            <intensity_exchange load="20"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="21" Prog2="27"/>
+            <intensity_exchange load="70"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="21" Prog2="28"/>
+            <intensity_exchange load="70"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="21" Prog2="29"/>
+            <intensity_exchange load="20"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="21" Prog2="30"/>
+            <intensity_exchange load="50"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="22" Prog2="23"/>
+            <intensity_exchange load="50"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="22" Prog2="24"/>
+            <intensity_exchange load="20"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="22" Prog2="25"/>
+            <intensity_exchange load="0"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="22" Prog2="26"/>
+            <intensity_exchange load="50"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="22" Prog2="27"/>
+            <intensity_exchange load="20"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="22" Prog2="28"/>
+            <intensity_exchange load="100"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="22" Prog2="29"/>
+            <intensity_exchange load="20"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="22" Prog2="30"/>
+            <intensity_exchange load="70"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="23" Prog2="24"/>
+            <intensity_exchange load="70"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="23" Prog2="25"/>
+            <intensity_exchange load="0"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="23" Prog2="26"/>
+            <intensity_exchange load="70"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="23" Prog2="27"/>
+            <intensity_exchange load="0"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="23" Prog2="28"/>
+            <intensity_exchange load="100"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="23" Prog2="29"/>
+            <intensity_exchange load="20"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="23" Prog2="30"/>
+            <intensity_exchange load="70"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="24" Prog2="25"/>
+            <intensity_exchange load="100"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="24" Prog2="26"/>
+            <intensity_exchange load="0"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="24" Prog2="27"/>
+            <intensity_exchange load="70"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="24" Prog2="28"/>
+            <intensity_exchange load="70"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="24" Prog2="29"/>
+            <intensity_exchange load="50"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="24" Prog2="30"/>
+            <intensity_exchange load="70"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="25" Prog2="26"/>
+            <intensity_exchange load="50"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="25" Prog2="27"/>
+            <intensity_exchange load="100"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="25" Prog2="28"/>
+            <intensity_exchange load="20"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="25" Prog2="29"/>
+            <intensity_exchange load="70"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="25" Prog2="30"/>
+            <intensity_exchange load="70"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="26" Prog2="27"/>
+            <intensity_exchange load="0"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="26" Prog2="28"/>
+            <intensity_exchange load="20"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="26" Prog2="29"/>
+            <intensity_exchange load="100"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="26" Prog2="30"/>
+            <intensity_exchange load="70"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="27" Prog2="28"/>
+            <intensity_exchange load="70"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="27" Prog2="29"/>
+            <intensity_exchange load="70"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="27" Prog2="30"/>
+            <intensity_exchange load="100"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="28" Prog2="29"/>
+            <intensity_exchange load="0"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="28" Prog2="30"/>
+            <intensity_exchange load="0"/>
+        </exchange_pair>
+        <exchange_pair>
+            <pair_programs Prog1="29" Prog2="30"/>
+            <intensity_exchange load="20"/>
+        </exchange_pair>
+    </exchange_data>
+</information>
